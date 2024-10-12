@@ -1,0 +1,15 @@
+As we have many different and unique budget plan for the our client. 
+
+Navratri Event = 35000
+ - Decoration
+ - Food (One time)
+ - Lighting 
+ - Carpet 
+ - Music
+
+Diwali Event = 50000
+  - Decoration 
+  - Food
+  - Lighting 
+  - Fire Crackers 
+  - Music
